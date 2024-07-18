@@ -32,7 +32,7 @@ The project is a simple yet elegant login page that allows users to sign up or s
 ### Links
 
 - Solution URL: [Solution](https://github.com/bossthekhani/modern_login_page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## My process
 
